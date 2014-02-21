@@ -1,0 +1,66 @@
+
+{"myDreamTeas": [{
+				"name":"Darjeeling Snow",
+				"type":"white",
+				"origin": "india",
+				"isCaffeinated":false,
+				"infusionTimeMinutes": 4,
+				"notes": ["jasmine", "lychee", "damp earth"]
+			},{
+				"name":"Madame Butterfly",
+				"type":"white",
+				"origin":"china",
+				"isCaffeinated":false,
+				"infusionTimeMinutes": 7,
+				"notes": ["cherry blossoms", "rosebuds", "persimmons"]
+			},{
+				"name":"Iksander",
+				"type":"green",
+				"origin":"china",
+				"isCaffeinated":true,
+				"infusionTimeMinutes": 3,
+				"notes": ["floral", "menthol"]
+			},{
+				"name":"River Tea",
+				"type":"green",
+				"origin":"china",
+				"isCaffeinated":true,
+				"infusionTimeMinutes": 2,
+				"notes": ["angelica", "pineapple", "wood"]
+			},{
+				"name":"Darjeeling Indigo",
+				"type":"blue",
+				"origin":"india",
+				"isCaffeinated":true,
+				"infusionTimeMinutes": 4,
+				"notes": ["plum jam", "black fig", "rosehips"]
+			},{
+				"name":"Darjeeling Cloud",
+				"type":"black",
+				"origin":"india",
+				"isCaffeinated":true,
+				"infusionTimeMinutes": 4,
+				"notes": ["jasmine", "orange", "praline"]
+			},{
+				"name":"Bird Song",
+				"type":"black",
+				"origin":"vietnam",
+				"isCaffeinated":true,
+				"infusionTimeMinutes": 3,
+				"notes": ["chocolate", "rose", "kiwi"]
+			},{
+				"name":"Rouge Ruschka",
+				"type":"rooibos",
+				"origin":"south africa",
+				"isCaffeinated":false,
+				"infusionTimeMinutes": 5,
+				"notes": ["berries", "bergamot", "citrus"]
+			},{	
+				"name":"Rouge Tea",
+				"type":"rooibos",
+				"origin":"south africa",
+				"isCaffeinated":false,
+				"infusionTimeMinutes": 5,
+				"notes": ["gingerbread", "zest"]
+			}]
+			}
