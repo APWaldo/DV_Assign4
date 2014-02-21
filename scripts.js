@@ -33,5 +33,3 @@ function teaDiv(){
 //Adding document ready and also telling it to load teaDiv function.
 $( document ).ready(teaDiv);
 
-
-console.log("This statement is after document ready.");
