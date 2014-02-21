@@ -1,4 +1,11 @@
 /**
  * @author Annie P Waldman
  */
-	console.log("Data Viz Project Coming Soon.....");
+
+
+
+
+
+
+//Adding document ready and also telling it to load teaDiv function.
+$( document ).ready(teaDiv);
